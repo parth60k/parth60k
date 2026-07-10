@@ -1,7 +1,5 @@
 <div align="center">
 
-# Hi, I'm Parth 👋
-
 ### Building products around **AI**, **Full-Stack Development**, and **Developer Tools**
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Building+AI-powered+Products;Hackathon+Builder;Learning+by+Shipping;Always+Curious." />
