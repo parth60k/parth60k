@@ -163,15 +163,6 @@ Currently Exploring AI Systems
 
 </p>
 
----
-
-## 🤝 Connect With Me
-
-* 💼 LinkedIn
-* 📧 Email
-* 🌐 Portfolio *(Coming Soon)*
-
----
 
 <div align="center">
 
