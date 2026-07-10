@@ -1,64 +1,52 @@
+<div align="center">
+
 # Hi, I'm Parth 👋
 
-I'm a Computer Engineering student from India who enjoys building products around AI, full-stack development, and developer tooling.
+### Building products around **AI**, **Full-Stack Development**, and **Developer Tools**
 
-Most of my projects start with a simple question:
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Building+AI-powered+Products;Hackathon+Builder;Learning+by+Shipping;Always+Curious." />
 
-> "Can this problem be solved better?"
-
-I enjoy participating in hackathons, experimenting with new technologies, and shipping projects that solve real-world problems rather than tutorial clones.
+</div>
 
 ---
 
-## 🚀 Currently Building
+## 💫 About Me
 
-- AI-powered applications
-- Developer tools
-- Full-stack web applications
-- Exploring Blockchain & AI intersections
-- Solving DSA consistently
+I'm a Computer Engineering student from India who enjoys building software that solves real problems.
 
----
+Most of my projects begin with one question:
 
-## 🛠 Tech Stack
+> **"Can this be built better?"**
 
-### Languages
+I enjoy exploring AI systems, full-stack development, and developer tooling while continuously improving my problem-solving skills through DSA and hands-on projects.
 
-TypeScript • JavaScript • C++ • Python
-
-### Frontend
-
-React • Next.js • Tailwind CSS • Vite • Framer Motion
-
-### Backend
-
-Node.js • Express • REST APIs
-
-### AI
-
-OpenAI • Gemini • Prompt Engineering • AI Integrations
-
-### Database
-
-MongoDB • Firebase
-
-### Tools
-
-Git • GitHub • VS Code • Postman • Vercel
+Rather than following tutorials endlessly, I prefer learning by building, experimenting, and shipping.
 
 ---
 
-## ⭐ Featured Projects
+## 🚧 Current Side Quest
+
+> **Building an AI Knowledge Operating System**
+
+A system that transforms conversations from AI assistants into a personal knowledge graph with adaptive memory, helping people retain what they learn instead of repeatedly asking the same questions.
+
+**Current Interests**
+
+* AI Systems
+* Knowledge Graphs
+* Long-term Memory
+* Backend Engineering
+* System Design
+
+---
+
+## 🚀 Featured Projects
 
 ### 🗳 Election Playbook
 
-AI-powered civic-tech platform focused on analysing political discourse with verification-first workflows.
+AI-powered civic-tech platform for analysing political discourse using structured verification workflows.
 
-**Tech**
-Next.js • TypeScript • Gemini • Tailwind
-
-🔗 Live Demo
-🔗 Repository
+**Tech:** Next.js • TypeScript • Gemini • Tailwind CSS
 
 ---
 
@@ -66,68 +54,129 @@ Next.js • TypeScript • Gemini • Tailwind
 
 Built during the Monad Buildathon.
 
-An AI-powered student assistant integrating blockchain credentials, resume analysis, assignment planning and campus utilities.
+An AI-powered student operating system integrating resume analysis, assignment planning, blockchain credentials and campus productivity.
 
-**Tech**
-
-React • Node.js • Express • MongoDB • Gemini • Monad
+**Tech:** React • Node.js • MongoDB • Gemini • Monad
 
 ---
 
 ### 🧠 PromptForge
 
-Compress large codebases into LLM-friendly context while preserving important information.
+Compress large repositories into LLM-friendly context while preserving meaningful structure.
 
-Built completely client-side.
-
-**Tech**
-
-React • JavaScript • Vite
+**Tech:** React • Vite • JavaScript
 
 ---
 
 ### 💻 DSA Journey
 
-My ongoing repository documenting Data Structures & Algorithms solutions and problem-solving progress.
-
-Currently following Striver's roadmap.
+Consistently solving Data Structures & Algorithms problems while documenting my learning journey in C++.
 
 ---
 
-## 📈 GitHub Activity
+## 🛠 Tech Stack
 
-I use GitHub as my engineering journal.
+### Languages
 
-Most repositories include:
+`C++` `TypeScript` `JavaScript` `Python`
 
-- Documentation
-- Proper commits
-- Project setup
-- Learning notes
-- Continuous improvements
+### Frontend
 
-I believe shipping consistently is better than waiting for perfection.
+`React` `Next.js` `Tailwind CSS` `Vite`
 
----
+### Backend
 
-## 🌱 Currently Learning
+`Node.js` `Express.js`
 
-- AI Systems
-- Backend Engineering
-- System Design
-- Blockchain Development
-- Building products that people actually use
+### AI
 
----
+`OpenAI` `Gemini` `Prompt Engineering`
 
-## 🤝 Let's Connect
+### Database
 
-LinkedIn
+`MongoDB` `Firebase`
 
-Email
+### Tools
 
-Portfolio (coming soon)
+`Git` `GitHub` `VS Code` `Postman` `Vercel`
 
 ---
 
-> Building today what I couldn't build yesterday.
+## 📈 Builder Timeline
+
+```
+Started Programming
+        │
+        ▼
+Built C++ Projects
+        │
+        ▼
+Solved 100+ DSA Problems
+        │
+        ▼
+Started Full-Stack Development
+        │
+        ▼
+Built AI Applications
+        │
+        ▼
+Participated in Hackathons
+        │
+        ▼
+Currently Exploring AI Systems
+```
+
+---
+
+## 🎯 2026 Goals
+
+* ✅ Build meaningful projects consistently
+* ✅ Participate in more hackathons
+* ✅ Contribute to Open Source
+* ⬜ Launch a product with real users
+* ⬜ Deep dive into AI Systems & Backend Engineering
+* ⬜ Build something people use every day
+
+---
+
+## 💡 Engineering Principles
+
+* Build products instead of tutorial clones.
+* Learn by shipping.
+* Keep improving one project at a time.
+* Write code that's easy to understand and maintain.
+* Stay curious and keep experimenting.
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=parth60k&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parth60k&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=parth60k&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+* 💼 LinkedIn
+* 📧 Email
+* 🌐 Portfolio *(Coming Soon)*
+
+---
+
+<div align="center">
+
+### *Building today what I couldn't build yesterday.*
+
+</div>
