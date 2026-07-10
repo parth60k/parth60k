@@ -1,6 +1,6 @@
 <div align="center">
 
-### Building products around **AI**, **Full-Stack Development**, and **Developer Tools**
+### Building products around **AI**, **Full-Stack Development** and **Developer Tools**
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Building+AI-powered+Products;Hackathon+Builder;Learning+by+Shipping;Always+Curious." />
 
@@ -10,7 +10,7 @@
 
 ## 💫 About Me
 
-I'm a Computer Engineering student from India who enjoys building software that solves real problems.
+I'm a Computer Engineering student who enjoys building software that solves real problems.
 
 Most of my projects begin with one question:
 
@@ -19,22 +19,6 @@ Most of my projects begin with one question:
 I enjoy exploring AI systems, full-stack development, and developer tooling while continuously improving my problem-solving skills through DSA and hands-on projects.
 
 Rather than following tutorials endlessly, I prefer learning by building, experimenting, and shipping.
-
----
-
-## 🚧 Current Side Quest
-
-> **Building an AI Knowledge Operating System**
-
-A system that transforms conversations from AI assistants into a personal knowledge graph with adaptive memory, helping people retain what they learn instead of repeatedly asking the same questions.
-
-**Current Interests**
-
-* AI Systems
-* Knowledge Graphs
-* Long-term Memory
-* Backend Engineering
-* System Design
 
 ---
 
