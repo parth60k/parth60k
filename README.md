@@ -1,27 +1,24 @@
 <div align="center">
 
-# `parth60k`
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=28&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&repeat=true&width=900&height=70&lines=PARTH+MANE;AI+%2F+BACKEND+%2F+FULL-STACK+%2F+DSA;I+BUILD+THINGS.;SOME+WORK.+SOME+DON'T.;I+LEARN+EITHER+WAY." />
 
-### I build things. Some work. Some don't. I learn either way.
+<br>
 
-```text
-AI / BACKEND / FULL-STACK / DSA
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=900&color=58A6FF&center=true&vCenter=true&width=800&lines=building+stuff+that+shouldn't+exist;turning+ideas+into+working+software;breaking+my+own+code+daily;C%2B%2B+%7C+JS+%7C+TS+%7C+AI;still+figuring+it+out." />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:161b22,100:0d1117&height=2&section=header"/>
 
 </div>
 
----
-
-```bash
-$ whoami
-
-parth
-computer engineering student
-builder
-problem solver
-professional "let me try it" guy
+```text
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║   parth@github ~ $ whoami                                           ║
+║                                                                      ║
+║   > computer engineering student                                    ║
+║   > builder                                                         ║
+║   > problem solver                                                  ║
+║   > professional "let me try it" guy                                ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
 ```
 
 I like building software more than talking about building software.
@@ -30,13 +27,15 @@ Right now I'm somewhere between:
 
 **AI applications → backend engineering → full-stack systems → whatever seems interesting next**
 
-Most of what I know came from trying to build something, getting stuck, googling the hell out of it, fixing it, and doing it again.
+Most of what I know came from trying to build something, getting stuck, figuring out why it broke, and doing it again.
 
 ---
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,50:8B5CF6,100:58A6FF&height=3&section=header"/>
+
 ## `./projects`
 
-### `01` — Election Playbook
+### `01` — **Election Playbook**
 
 A civic-tech platform built around AI-assisted analysis and structured verification of political information.
 
@@ -44,7 +43,7 @@ A civic-tech platform built around AI-assisted analysis and structured verificat
 
 ---
 
-### `02` — Campus AI Assistant
+### `02` — **Campus AI Assistant**
 
 An AI-focused student platform built during a buildathon, combining productivity tools, resume analysis and campus workflows.
 
@@ -52,69 +51,93 @@ An AI-focused student platform built during a buildathon, combining productivity
 
 ---
 
-### `03` — PromptForge
+### `03` — **PromptForge**
 
-A developer tool for turning large repositories into useful context for LLMs without throwing the whole codebase at them.
+A developer tool for turning large repositories into useful context for LLMs without throwing the entire codebase at them.
 
 `React` `Vite` `JavaScript`
 
 ---
 
-### `04` — DSA
+### `04` — **DSA**
 
 Currently doing the thing every CS student eventually gets dragged into.
 
 ```text
 C++
- ├── arrays
- ├── binary search
- ├── trees
- ├── graphs
- ├── dynamic programming
- └── suffering
+
+├── arrays
+├── binary search
+├── trees
+├── graphs
+├── dynamic programming
+└── suffering
+
+100+ problems solved
 ```
 
-**100+ problems solved**
-
 ---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,50:58A6FF,100:8B5CF6&height=3&section=header"/>
 
 ## `./stack`
 
 ```text
-LANGUAGES
-C++        ██████████
-JavaScript ████████░░
-TypeScript ██████░░░░
-Python     ████░░░░░░
+┌─ LANGUAGES ────────────────────────────────────────────────┐
 
-FRONTEND
-React      ████████░░
-Next.js    ██████░░░░
-Vite       ███████░░░
-Tailwind   ███████░░░
+C++          ██████████
+JavaScript   ████████░░
+TypeScript   ██████░░░░
+Python       ████░░░░░░
 
-BACKEND
-Node.js    ██████░░░░
-Express    █████░░░░░
-REST APIs  ███████░░░
+└────────────────────────────────────────────────────────────┘
 
-AI
+
+┌─ FRONTEND ────────────────────────────────────────────────┐
+
+React        ████████░░
+Next.js      ██████░░░░
+Vite         ███████░░░
+Tailwind     ███████░░░
+
+└────────────────────────────────────────────────────────────┘
+
+
+┌─ BACKEND ─────────────────────────────────────────────────┐
+
+Node.js      ██████░░░░
+Express      █████░░░░░
+REST APIs    ███████░░░
+
+└────────────────────────────────────────────────────────────┘
+
+
+┌─ AI ──────────────────────────────────────────────────────┐
+
 Gemini
 OpenAI
 LLM APIs
 Prompt Engineering
 
-TOOLS
+└────────────────────────────────────────────────────────────┘
+
+
+┌─ TOOLS ────────────────────────────────────────────────────┐
+
 Git
 GitHub
 Docker
 Postman
 Vercel
+
+└────────────────────────────────────────────────────────────┘
 ```
 
-*Bars are vibes, not a certification.*
+> `bars are vibes, not a certification`
 
 ---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,50:8B5CF6,100:58A6FF&height=3&section=header"/>
 
 ## `./currently`
 
@@ -122,12 +145,19 @@ Trying to get really good at the boring stuff behind the cool stuff.
 
 ```text
 API design
+    ↓
 databases
+    ↓
 authentication
+    ↓
 backend architecture
+    ↓
 Docker
+    ↓
 deployment
+    ↓
 AI integrations
+    ↓
 system thinking
 ```
 
@@ -139,41 +169,49 @@ Making the **whole thing actually work** is another.
 
 ## `./modus-operandi`
 
+<div align="center">
+
 ```text
-have idea
-   ↓
-build it
-   ↓
-something breaks
-   ↓
-stare at error
-   ↓
-google
-   ↓
-fix it
-   ↓
-break something else
-   ↓
-fix that too
-   ↓
-ship
+IDEA
+ │
+ ▼
+BUILD
+ │
+ ▼
+BREAK
+ │
+ ▼
+"why the hell is this happening"
+ │
+ ▼
+DEBUG
+ │
+ ▼
+FIX
+ │
+ ▼
+SHIP
+ │
+ └──────────────► REPEAT
 ```
 
-I learn fastest when I have something real to build.
+</div>
+
+I learn fastest when there's something real to build.
 
 ---
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,50:58A6FF,100:8B5CF6&height=3&section=header"/>
+
 ## `./outside_the_code`
 
-Hackathons.
-
-Build events.
-
-Open source.
-
-Developer communities.
-
-Random side projects at stupid hours.
+```text
+HACKATHONS
+BUILD EVENTS
+OPEN SOURCE
+DEVELOPER COMMUNITIES
+RANDOM SIDE PROJECTS AT STUPID HOURS
+```
 
 Basically, anything that gives me an excuse to build something I haven't built before.
 
@@ -196,32 +234,32 @@ Basically, anything that gives me an excuse to build something I haven't built b
 
 ---
 
-## `./stats`
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,50:8B5CF6,100:58A6FF&height=3&section=header"/>
 
-<p align="center">
+## `./github`
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=parth60k&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+<div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parth60k&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=parth60k&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=8B5CF6&text_color=C9D1D9&rank_icon=github"/>
 
-</p>
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parth60k&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
 
-<p align="center">
+<br><br>
 
-<img src="https://streak-stats.demolab.com?user=parth60k&theme=github-dark&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=parth60k&theme=github-dark&hide_border=true&background=0D1117&ring=58A6FF&fire=8B5CF6&currStreakLabel=58A6FF"/>
 
-</p>
+</div>
 
 ---
 
 <div align="center">
 
-```text
-still learning.
-still building.
-still shipping.
-```
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=1400&color=8B5CF6&center=true&vCenter=true&repeat=true&width=650&height=45&lines=still+learning.;still+building.;still+shipping.;still+not+done." />
 
-### `¯\_(ツ)_/¯`
+<br><br>
+
+```text
+¯\_(ツ)_/¯
+```
 
 </div>
