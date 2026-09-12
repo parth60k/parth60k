@@ -1,143 +1,208 @@
 <div align="center">
 
-### Building products around **AI**, **Full-Stack Development** and **Developer Tools**
+# `parth60k`
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Building+AI-powered+Products;Hackathon+Builder;Learning+by+Shipping;Always+Curious." />
+### I build things. Some work. Some don't. I learn either way.
+
+```text
+AI / BACKEND / FULL-STACK / DSA
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=900&color=58A6FF&center=true&vCenter=true&width=800&lines=building+stuff+that+shouldn't+exist;turning+ideas+into+working+software;breaking+my+own+code+daily;C%2B%2B+%7C+JS+%7C+TS+%7C+AI;still+figuring+it+out." />
 
 </div>
 
 ---
 
-## 💫 About Me
+```bash
+$ whoami
 
-I'm a Computer Engineering student who enjoys building software that solves real problems.
-
-Most of my projects begin with one question:
-
-> **"Can this be built better?"**
-
-I enjoy exploring AI systems, full-stack development, and developer tooling while continuously improving my problem-solving skills through DSA and hands-on projects.
-
-Rather than following tutorials endlessly, I prefer learning by building, experimenting, and shipping.
-
----
-
-## 🚀 Featured Projects
-
-### 🗳 Election Playbook
-
-AI-powered civic-tech platform for analysing political discourse using structured verification workflows.
-
-**Tech:** Next.js • TypeScript • Gemini • Tailwind CSS
-
----
-
-### 🎓 Campus AI Assistant
-
-Built during the Monad Buildathon.
-
-An AI-powered student operating system integrating resume analysis, assignment planning, blockchain credentials and campus productivity.
-
-**Tech:** React • Node.js • MongoDB • Gemini • Monad
-
----
-
-### 🧠 PromptForge
-
-Compress large repositories into LLM-friendly context while preserving meaningful structure.
-
-**Tech:** React • Vite • JavaScript
-
----
-
-### 💻 DSA Journey
-
-Consistently solving Data Structures & Algorithms problems while documenting my learning journey in C++.
-
----
-
-## 🛠 Tech Stack
-
-### Languages
-
-`C++` `TypeScript` `JavaScript` `Python`
-
-### Frontend
-
-`React` `Next.js` `Tailwind CSS` `Vite`
-
-### Backend
-
-`Node.js` `Express.js`
-
-### AI
-
-`OpenAI` `Gemini` `Prompt Engineering`
-
-### Database
-
-`MongoDB` `Firebase`
-
-### Tools
-
-`Git` `GitHub` `VS Code` `Postman` `Vercel`
-
----
-
-## 📈 Builder Timeline
-
-```
-Started Programming
-        │
-        ▼
-Built C++ Projects
-        │
-        ▼
-Solved 100+ DSA Problems
-        │
-        ▼
-Started Full-Stack Development
-        │
-        ▼
-Built AI Applications
-        │
-        ▼
-Participated in Hackathons
-        │
-        ▼
-Currently Exploring AI Systems
+parth
+computer engineering student
+builder
+problem solver
+professional "let me try it" guy
 ```
 
----
+I like building software more than talking about building software.
 
-## 🎯 2026 Goals
+Right now I'm somewhere between:
 
-* ✅ Build meaningful projects consistently
-* ✅ Participate in more hackathons
-* ✅ Contribute to Open Source
-* ⬜ Launch a product with real users
-* ⬜ Deep dive into AI Systems & Backend Engineering
-* ⬜ Build something people use every day
+**AI applications → backend engineering → full-stack systems → whatever seems interesting next**
+
+Most of what I know came from trying to build something, getting stuck, googling the hell out of it, fixing it, and doing it again.
 
 ---
 
-## 💡 Engineering Principles
+## `./projects`
 
-* Build products instead of tutorial clones.
-* Learn by shipping.
-* Keep improving one project at a time.
-* Write code that's easy to understand and maintain.
-* Stay curious and keep experimenting.
+### `01` — Election Playbook
+
+A civic-tech platform built around AI-assisted analysis and structured verification of political information.
+
+`Next.js` `TypeScript` `Gemini` `Tailwind`
 
 ---
 
-## 📊 GitHub Analytics
+### `02` — Campus AI Assistant
+
+An AI-focused student platform built during a buildathon, combining productivity tools, resume analysis and campus workflows.
+
+`React` `Node.js` `MongoDB` `Gemini` `Monad`
+
+---
+
+### `03` — PromptForge
+
+A developer tool for turning large repositories into useful context for LLMs without throwing the whole codebase at them.
+
+`React` `Vite` `JavaScript`
+
+---
+
+### `04` — DSA
+
+Currently doing the thing every CS student eventually gets dragged into.
+
+```text
+C++
+ ├── arrays
+ ├── binary search
+ ├── trees
+ ├── graphs
+ ├── dynamic programming
+ └── suffering
+```
+
+**100+ problems solved**
+
+---
+
+## `./stack`
+
+```text
+LANGUAGES
+C++        ██████████
+JavaScript ████████░░
+TypeScript ██████░░░░
+Python     ████░░░░░░
+
+FRONTEND
+React      ████████░░
+Next.js    ██████░░░░
+Vite       ███████░░░
+Tailwind   ███████░░░
+
+BACKEND
+Node.js    ██████░░░░
+Express    █████░░░░░
+REST APIs  ███████░░░
+
+AI
+Gemini
+OpenAI
+LLM APIs
+Prompt Engineering
+
+TOOLS
+Git
+GitHub
+Docker
+Postman
+Vercel
+```
+
+*Bars are vibes, not a certification.*
+
+---
+
+## `./currently`
+
+Trying to get really good at the boring stuff behind the cool stuff.
+
+```text
+API design
+databases
+authentication
+backend architecture
+Docker
+deployment
+AI integrations
+system thinking
+```
+
+Because making a chatbot is one thing.
+
+Making the **whole thing actually work** is another.
+
+---
+
+## `./modus-operandi`
+
+```text
+have idea
+   ↓
+build it
+   ↓
+something breaks
+   ↓
+stare at error
+   ↓
+google
+   ↓
+fix it
+   ↓
+break something else
+   ↓
+fix that too
+   ↓
+ship
+```
+
+I learn fastest when I have something real to build.
+
+---
+
+## `./outside_the_code`
+
+Hackathons.
+
+Build events.
+
+Open source.
+
+Developer communities.
+
+Random side projects at stupid hours.
+
+Basically, anything that gives me an excuse to build something I haven't built before.
+
+---
+
+## `./2026`
+
+```text
+[x] build more
+[x] ship more
+[x] solve 100+ DSA problems
+[x] enter hackathons
+[x] get into open source
+
+[ ] build something people actually keep using
+[ ] become genuinely good at backend engineering
+[ ] go deeper into AI systems
+[ ] make something I can't stop thinking about
+```
+
+---
+
+## `./stats`
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=parth60k&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=parth60k&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parth60k&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parth60k&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
@@ -147,9 +212,16 @@ Currently Exploring AI Systems
 
 </p>
 
+---
 
 <div align="center">
 
-### *Building today what I couldn't build yesterday.*
+```text
+still learning.
+still building.
+still shipping.
+```
+
+### `¯\_(ツ)_/¯`
 
 </div>
