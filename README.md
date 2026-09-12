@@ -1,25 +1,28 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=28&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&repeat=true&width=900&height=70&lines=PARTH+MANE;AI+%2F+BACKEND+%2F+FULL-STACK+%2F+DSA;I+BUILD+THINGS.;SOME+WORK.+SOME+DON'T.;I+LEARN+EITHER+WAY." />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=38&duration=1800&pause=700&color=E6EDF3&center=true&vCenter=true&repeat=true&width=900&height=75&lines=%5B%5B+PARTH+MANE+%5D%5D;%3E%3E+INITIALIZING...;%3E%3E+BUILDING+SYSTEMS...;%3E%3E+AI+%2F+BACKEND+%2F+FULL-STACK;%3E%3E+ACCESS+GRANTED." />
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:161b22,100:0d1117&height=2&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020304,35:15191F,50:7D8590,65:15191F,100:020304&height=4&section=header"/>
+
+```text
+╔══════════════════════════════════════════════════════════════════════════════╗
+║  // PARTH MANE                                                              ║
+║                                                                              ║
+║  SYSTEM            ONLINE                                                   ║
+║  STATUS            BUILDING                                                 ║
+║  MODE              CHAOTIC                                                  ║
+║  CURRENT OBJECTIVE AI × BACKEND × FULL-STACK                               ║
+║                                                                              ║
+║  [ ████████████████████████████████████████████████ ] 100%                  ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
+
+### `I BUILD THINGS. SOME WORK. SOME DON'T. I LEARN EITHER WAY.`
 
 </div>
 
-```text
-╔══════════════════════════════════════════════════════════════════════╗
-║                                                                      ║
-║   parth@github ~ $ whoami                                           ║
-║                                                                      ║
-║   > computer engineering student                                    ║
-║   > builder                                                         ║
-║   > problem solver                                                  ║
-║   > professional "let me try it" guy                                ║
-║                                                                      ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
 
 I like building software more than talking about building software.
 
