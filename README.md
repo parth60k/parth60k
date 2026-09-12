@@ -13,7 +13,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=2400&pause=900&color=00F0FF&center=true&vCenter=true&repeat=true&width=700&height=35&lines=BUILDING+%2F+BREAKING+%2F+DEBUGGING+%2F+SHIPPING;AI+APPLICATIONS+%C2%B7+BACKEND+SYSTEMS+%C2%B7+FULL-STACK;LEARNING+BY+BUILDING%2C+NOT+JUST+WATCHING" />
 
-</div>
+
 
 ---
 
@@ -27,7 +27,7 @@
                                    │  AI        ──►       BACKEND       ──►       FULL-STACK       ──►       DSA  │
                                    └──────────────────────────────────────────────────────────────────────────────┘
 ```
-
+</div>
 I like building software more than talking about building software.
 
 Most of what I know came from trying to build something, getting stuck, figuring out why it broke, fixing it, and doing it again.
