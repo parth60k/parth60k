@@ -17,15 +17,15 @@
 
 ---
 
-```text
-┌──────────────────────────────────────────────────────────────────────────────┐
-│  PARTH MANE                                                                  │
-│                                                                              │
-│  computer engineering student                                               │
-│  building AI-powered products + backend systems                             │
-│                                                                              │
-│  AI        ──►       BACKEND       ──►       FULL-STACK       ──►       DSA │
-└──────────────────────────────────────────────────────────────────────────────┘
+```text 
+                                   ┌──────────────────────────────────────────────────────────────────────────────┐
+                                   │  PARTH MANE                                                                  │
+                                   │                                                                              │
+                                   │  computer engineering student                                                │
+                                   │  building AI-powered products + backend systems                              │
+                                   │                                                                              │
+                                   │  AI        ──►       BACKEND       ──►       FULL-STACK       ──►       DSA  │
+                                   └──────────────────────────────────────────────────────────────────────────────┘
 ```
 
 I like building software more than talking about building software.
