@@ -1,70 +1,91 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=38&duration=1800&pause=700&color=E6EDF3&center=true&vCenter=true&repeat=true&width=900&height=75&lines=%5B%5B+PARTH+MANE+%5D%5D;%3E%3E+INITIALIZING...;%3E%3E+BUILDING+SYSTEMS...;%3E%3E+AI+%2F+BACKEND+%2F+FULL-STACK;%3E%3E+ACCESS+GRANTED." />
+<img src="./assets/moon-banner.svg" width="100%" alt="cyberpunk banner"/>
 
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=36&duration=1800&pause=650&color=00F0FF&center=true&vCenter=true&repeat=true&width=950&height=80&lines=%5B%5B+PARTH+MANE+%5D%5D;%3E%3E+NEURAL+LINK+ESTABLISHED;%3E%3E+BUILDING+SYSTEMS...;%3E%3E+AI+%2F+BACKEND+%2F+FULL-STACK;%3E%3E+ACCESS+GRANTED." />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020304,35:15191F,50:7D8590,65:15191F,100:020304&height=4&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:05010D,35:FF003C,50:9D00FF,65:00F0FF,100:05010D&height=4&section=header"/>
 
 ```text
 ╔══════════════════════════════════════════════════════════════════════════════╗
-║  // PARTH MANE                                                              ║
 ║                                                                              ║
-║  SYSTEM            ONLINE                                                   ║
-║  STATUS            BUILDING                                                 ║
-║  MODE              CHAOTIC                                                  ║
-║  CURRENT OBJECTIVE AI × BACKEND × FULL-STACK                               ║
+║   P A R T H   M A N E                                            [ v2.077 ] ║
 ║                                                                              ║
-║  [ ████████████████████████████████████████████████ ] 100%                  ║
+║   STATUS       // ONLINE                                                    ║
+║   MODE         // BUILDING                                                  ║
+║   STATE        // LEARNING                                                  ║
+║   NEURAL LINK  // STABLE                                                     ║
+║   OBJECTIVE    // AI × BACKEND × FULL-STACK                                 ║
+║                                                                              ║
+║   ████████████████████████████████████████████████████████████████  100%   ║
+║                                                                              ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
 
 ### `I BUILD THINGS. SOME WORK. SOME DON'T. I LEARN EITHER WAY.`
 
+<br>
+
+![C++](https://img.shields.io/badge/C++-00F0FF?style=for-the-badge&logo=cplusplus&logoColor=000000)
+![JavaScript](https://img.shields.io/badge/JavaScript-FCEE0A?style=for-the-badge&logo=javascript&logoColor=000000)
+![TypeScript](https://img.shields.io/badge/TypeScript-9D00FF?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FF003C?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-00F0FF?style=for-the-badge&logo=react&logoColor=000000)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=00F0FF)
+![Node.js](https://img.shields.io/badge/Node.js-9D00FF?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-00F0FF?style=for-the-badge&logo=docker&logoColor=000000)
+
 </div>
 
+---
+
+<div align="center">
+
+```text
+AI ▸▸▸ BACKEND ▸▸▸ FULL-STACK ▸▸▸ DSA
+```
+
+</div>
 
 I like building software more than talking about building software.
 
-Right now I'm somewhere between:
+Right now I'm somewhere between **AI applications, backend engineering, full-stack systems, and whatever interesting problem shows up next.**
 
-**AI applications → backend engineering → full-stack systems → whatever seems interesting next**
-
-Most of what I know came from trying to build something, getting stuck, figuring out why it broke, and doing it again.
+Most of what I know came from trying to build something, getting stuck, figuring out why it broke, fixing it, and doing it again.
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,50:8B5CF6,100:58A6FF&height=3&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:05010D,35:00F0FF,50:FCEE0A,65:9D00FF,100:05010D&height=3&section=header"/>
 
-## `./projects`
+## `╭─[ PROJECTS ]` <sub>// deployed_units</sub>
 
-### `01` — **Election Playbook**
+### `⟦ 01 ⟧` ── **Election Playbook**
 
-A civic-tech platform built around AI-assisted analysis and structured verification of political information.
+AI-powered civic-tech platform focused on structured analysis and verification of political information.
 
-`Next.js` `TypeScript` `Gemini` `Tailwind`
+`Next.js` `TypeScript` `Gemini` `Tailwind CSS`
 
 ---
 
-### `02` — **Campus AI Assistant**
+### `⟦ 02 ⟧` ── **Campus AI Assistant**
 
-An AI-focused student platform built during a buildathon, combining productivity tools, resume analysis and campus workflows.
+AI-focused student platform built during a buildathon, combining productivity tools, resume analysis and campus workflows.
 
 `React` `Node.js` `MongoDB` `Gemini` `Monad`
 
 ---
 
-### `03` — **PromptForge**
+### `⟦ 03 ⟧` ── **PromptForge**
 
-A developer tool for turning large repositories into useful context for LLMs without throwing the entire codebase at them.
+Developer tool for turning large repositories into useful LLM context while preserving meaningful project structure.
 
 `React` `Vite` `JavaScript`
 
 ---
 
-### `04` — **DSA**
+### `⟦ 04 ⟧` ── **DSA**
 
-Currently doing the thing every CS student eventually gets dragged into.
+The part where I voluntarily make arrays ruin my evening.
 
 ```text
 C++
@@ -76,92 +97,81 @@ C++
 ├── dynamic programming
 └── suffering
 
-100+ problems solved
+> 100+ problems solved
 ```
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,50:58A6FF,100:8B5CF6&height=3&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:05010D,35:9D00FF,50:00F0FF,65:FF003C,100:05010D&height=3&section=header"/>
 
-## `./stack`
+## `╭─[ STACK ]` <sub>// loadout.cfg</sub>
 
 ```text
-┌─ LANGUAGES ────────────────────────────────────────────────┐
-
-C++          ██████████
-JavaScript   ████████░░
-TypeScript   ██████░░░░
-Python       ████░░░░░░
-
-└────────────────────────────────────────────────────────────┘
-
-
-┌─ FRONTEND ────────────────────────────────────────────────┐
-
-React        ████████░░
-Next.js      ██████░░░░
-Vite         ███████░░░
-Tailwind     ███████░░░
-
-└────────────────────────────────────────────────────────────┘
-
-
-┌─ BACKEND ─────────────────────────────────────────────────┐
-
-Node.js      ██████░░░░
-Express      █████░░░░░
-REST APIs    ███████░░░
-
-└────────────────────────────────────────────────────────────┘
-
-
-┌─ AI ──────────────────────────────────────────────────────┐
-
-Gemini
-OpenAI
-LLM APIs
-Prompt Engineering
-
-└────────────────────────────────────────────────────────────┘
-
-
-┌─ TOOLS ────────────────────────────────────────────────────┐
-
-Git
-GitHub
-Docker
-Postman
-Vercel
-
-└────────────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────────────────────┐
+│                                                                             │
+│  LANGUAGES                                                                  │
+│                                                                             │
+│  C++          ██████████                                                    │
+│  JavaScript   ████████░░                                                    │
+│  TypeScript   ██████░░░░                                                    │
+│  Python       ████░░░░░░                                                    │
+│                                                                             │
+├─────────────────────────────────────────────────────────────────────────────┤
+│                                                                             │
+│  FRONTEND                                                                   │
+│                                                                             │
+│  React        ████████░░                                                    │
+│  Next.js      ██████░░░░                                                    │
+│  Vite         ███████░░░                                                    │
+│  Tailwind     ███████░░░                                                    │
+│                                                                             │
+├─────────────────────────────────────────────────────────────────────────────┤
+│                                                                             │
+│  BACKEND                                                                    │
+│                                                                             │
+│  Node.js      ██████░░░░                                                    │
+│  Express      █████░░░░░                                                     │
+│  REST APIs    ███████░░░                                                    │
+│                                                                             │
+├─────────────────────────────────────────────────────────────────────────────┤
+│                                                                             │
+│  AI                                                                         │
+│                                                                             │
+│  Gemini  ·  OpenAI  ·  LLM APIs  ·  Prompt Engineering                      │
+│                                                                             │
+├─────────────────────────────────────────────────────────────────────────────┤
+│                                                                             │
+│  TOOLS                                                                      │
+│                                                                             │
+│  Git  ·  GitHub  ·  Docker  ·  Postman  ·  Vercel                          │
+│                                                                             │
+└─────────────────────────────────────────────────────────────────────────────┘
 ```
 
-> `bars are vibes, not a certification`
+> `progress bars are vibes, not certifications.`
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,50:8B5CF6,100:58A6FF&height=3&section=header"/>
-
-## `./currently`
+## `╭─[ CURRENTLY RUNNING ]` <sub>// active_process.exe</sub>
 
 Trying to get really good at the boring stuff behind the cool stuff.
 
 ```text
-API design
+API DESIGN
     ↓
-databases
+DATABASES
     ↓
-authentication
+AUTHENTICATION
     ↓
-backend architecture
+BACKEND ARCHITECTURE
     ↓
-Docker
+DOCKER
     ↓
-deployment
+DEPLOYMENT
     ↓
-AI integrations
+AI INTEGRATIONS
     ↓
-system thinking
+SYSTEM THINKING
 ```
 
 Because making a chatbot is one thing.
@@ -170,32 +180,48 @@ Making the **whole thing actually work** is another.
 
 ---
 
-## `./modus-operandi`
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:05010D,35:00F0FF,50:9D00FF,65:FCEE0A,100:05010D&height=3&section=header"/>
+
+## `╭─[ MODUS OPERANDI ]` <sub>// runtime_loop</sub>
 
 <div align="center">
 
 ```text
-IDEA
- │
- ▼
-BUILD
- │
- ▼
-BREAK
- │
- ▼
-"why the hell is this happening"
- │
- ▼
-DEBUG
- │
- ▼
-FIX
- │
- ▼
-SHIP
- │
- └──────────────► REPEAT
+                     ┌──────────┐
+                     │   IDEA   │
+                     └────┬─────┘
+                          │
+                          ▼
+                     ┌──────────┐
+                     │  BUILD   │
+                     └────┬─────┘
+                          │
+                          ▼
+                     ┌──────────┐
+                     │  BREAK   │
+                     └────┬─────┘
+                          │
+                          ▼
+                ┌────────────────────┐
+                │ "what the hell..." │
+                └─────────┬──────────┘
+                          │
+                          ▼
+                     ┌──────────┐
+                     │  DEBUG   │
+                     └────┬─────┘
+                          │
+                          ▼
+                     ┌──────────┐
+                     │   FIX    │
+                     └────┬─────┘
+                          │
+                          ▼
+                     ┌──────────┐
+                     │   SHIP   │
+                     └────┬─────┘
+                          │
+                          └──────────────► REPEAT
 ```
 
 </div>
@@ -204,23 +230,24 @@ I learn fastest when there's something real to build.
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,50:58A6FF,100:8B5CF6&height=3&section=header"/>
-
-## `./outside_the_code`
+## `╭─[ OUTSIDE THE CODE ]` <sub>// side_quests</sub>
 
 ```text
 HACKATHONS
 BUILD EVENTS
 OPEN SOURCE
 DEVELOPER COMMUNITIES
-RANDOM SIDE PROJECTS AT STUPID HOURS
+AI EXPERIMENTS
+SIDE PROJECTS AT STUPID HOURS
 ```
 
-Basically, anything that gives me an excuse to build something I haven't built before.
+Anything that gives me an excuse to build something I haven't built before.
 
 ---
 
-## `./2026`
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:05010D,35:FF003C,50:00F0FF,65:9D00FF,100:05010D&height=3&section=header"/>
+
+## `╭─[ 2026 SYSTEM OBJECTIVES ]` <sub>// quest_log</sub>
 
 ```text
 [x] build more
@@ -237,19 +264,35 @@ Basically, anything that gives me an excuse to build something I haven't built b
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,50:8B5CF6,100:58A6FF&height=3&section=header"/>
+## `╭─[ SYSTEM LOG ]` <sub>// last_session.log</sub>
 
-## `./github`
+```text
+00:01  idea created
+00:07  project started
+00:19  first bug
+00:32  second bug
+00:41  "this should be easy"
+01:17  it was not easy
+02:03  fixed
+02:04  new bug
+03:11  shipped anyway
+```
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:05010D,35:9D00FF,50:FF003C,65:00F0FF,100:05010D&height=3&section=header"/>
+
+## `╭─[ GITHUB TELEMETRY ]` <sub>// mainframe_stats</sub>
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=parth60k&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=8B5CF6&text_color=C9D1D9&rank_icon=github"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=parth60k&show_icons=true&theme=github_dark&hide_border=true&bg_color=05010D&title_color=00F0FF&icon_color=FF003C&text_color=8B949E&rank_icon=github"/>
 
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parth60k&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parth60k&layout=compact&theme=github_dark&hide_border=true&bg_color=05010D&title_color=00F0FF&text_color=8B949E"/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=parth60k&theme=github-dark&hide_border=true&background=0D1117&ring=58A6FF&fire=8B5CF6&currStreakLabel=58A6FF"/>
+<img src="https://streak-stats.demolab.com?user=parth60k&theme=github-dark&hide_border=true&background=05010D&ring=00F0FF&fire=FF003C&currStreakLabel=9D00FF"/>
 
 </div>
 
@@ -257,11 +300,13 @@ Basically, anything that gives me an excuse to build something I haven't built b
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=1400&color=8B5CF6&center=true&vCenter=true&repeat=true&width=650&height=45&lines=still+learning.;still+building.;still+shipping.;still+not+done." />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&duration=2600&pause=1100&color=9D00FF&center=true&vCenter=true&repeat=true&width=700&height=50&lines=still+learning.;still+building.;still+shipping.;still+not+done." />
 
 <br><br>
 
 ```text
+[ CONNECTION CLOSED ]
+
 ¯\_(ツ)_/¯
 ```
 
