@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="./assets/moon-banner.svg" width="100%" alt="cyberpunk banner"/>
+<img width="3840" height="2160" alt="wallpaperflare com_wallpaper" src="https://github.com/user-attachments/assets/e9a6f328-a404-4fd9-b655-06bd5c4dfa6a" />
+
 
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=36&duration=1800&pause=650&color=00F0FF&center=true&vCenter=true&repeat=true&width=950&height=80&lines=%5B%5B+PARTH+MANE+%5D%5D;%3E%3E+NEURAL+LINK+ESTABLISHED;%3E%3E+BUILDING+SYSTEMS...;%3E%3E+AI+%2F+BACKEND+%2F+FULL-STACK;%3E%3E+ACCESS+GRANTED." />
 
